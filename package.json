@@ -1,0 +1,22 @@
+{
+  "name": "sndbx_node_npm_vscode",
+  "version": "1.0.0",
+  "description": "demo project 3ahit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litec-hasp/sndbx_node_npm_vscode.git"
+  },
+  "author": "hasp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litec-hasp/sndbx_node_npm_vscode/issues"
+  },
+  "homepage": "https://github.com/litec-hasp/sndbx_node_npm_vscode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
