@@ -14,7 +14,6 @@ start powershell as admin.
 
 ```bash
 choco install nodejs -y
-choco install npm -y
 choco install vs-code -y
 ```
 
