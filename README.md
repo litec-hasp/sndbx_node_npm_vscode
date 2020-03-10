@@ -21,8 +21,9 @@ choco install vs-code -y
 
 1. clone project
 2. switch to folder 
-3. type `npm build` and then `npm start`
-4. a small express-web-service is started at `localhost:3000`
+3. type `npm install` to install all package dependencies
+4. to start the project: (`npm build` and then) `npm start`
+5. a small express-web-service is started at `localhost:3000`
 
 # setup - own project
 
